@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+relatorio_*.csv
+planilha_exemplo.xlsx
+.DS_Store
+Thumbs.db
+venv/
+.venv/

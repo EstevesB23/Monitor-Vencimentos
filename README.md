@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26606474/README.md)
 # 📅 Monitor de Vencimentos
 
 Automação em Python que lê uma planilha Excel com parcelas/cobranças, identifica os vencimentos próximos e envia alertas por e-mail automaticamente.
